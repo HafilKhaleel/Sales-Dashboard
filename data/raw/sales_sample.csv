@@ -1,0 +1,16 @@
+order_id,order_date,customer_id,customer_name,region,product_id,product_name,category,quantity,unit_price,unit_cost
+O1001,2025-01-05,C001,Sample Customer 1,North,P01,Desk Lamp,Home,2,25.00,14.00
+O1002,2025-01-08,C002,Sample Customer 2,South,P02,Notebook,Office,5,4.00,1.50
+O1003,2025-01-14,C003,Sample Customer 3,East,P03,Water Bottle,Accessories,3,12.00,5.00
+O1004,2025-01-22,C004,Sample Customer 4,West,P01,Desk Lamp,Home,1,25.00,14.00
+O1005,2025-02-02,C001,Sample Customer 1,North,P04,Pen Set,Office,4,8.00,3.00
+O1006,2025-02-09,C005,Sample Customer 5,South,P03,Water Bottle,Accessories,2,12.00,5.00
+O1007,2025-02-18,C006,Sample Customer 6,East,P02,Notebook,Office,8,4.00,1.50
+O1008,2025-02-24,C007,Sample Customer 7,West,P05,Storage Box,Home,2,18.00,10.00
+O1009,2025-03-03,C008,Sample Customer 8,North,P05,Storage Box,Home,3,18.00,10.00
+O1010,2025-03-11,C002,Sample Customer 2,South,P01,Desk Lamp,Home,2,25.00,14.00
+O1011,2025-03-16,C009,Sample Customer 9,East,P04,Pen Set,Office,6,8.00,3.00
+O1012,2025-03-28,C010,Sample Customer 10,West,P03,Water Bottle,Accessories,4,12.00,5.00
+O1013,2025-04-04,C003,Sample Customer 3,North,P02,Notebook,Office,7,4.00,1.50
+O1014,2025-04-13,C005,Sample Customer 5,South,P05,Storage Box,Home,1,18.00,10.00
+O1015,2025-04-27,C011,Sample Customer 11,East,P01,Desk Lamp,Home,3,25.00,14.00

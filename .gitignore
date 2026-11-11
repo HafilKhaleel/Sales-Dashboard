@@ -1,0 +1,14 @@
+# Python virtual environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local data products and database files
+# Review every file before publishing; keep only data you are allowed to share.
+data/processed/*
+!data/processed/.gitkeep
+data/*.db
+
+# Power BI and Excel temporary/lock files
+~$*.xlsx
+*.tmp
